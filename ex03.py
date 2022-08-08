@@ -47,4 +47,7 @@ funcao = operacoes[opcao] # Buscando no dicionário a opção informada
 
 resultado = funcao(numero1, numero2) # Chamando a função buscada no dicionário
 
-print(f"{numero1} {opcao} {numero2} = {resultado}") # Imprimindo no console o resultado da operação
+print(f"\n{numero1} {opcao} {numero2} = {resultado}") # Imprimindo no console o resultado da operação
+
+print('\nFim do programa') # Informando ao usuário que o programa terminou
+
