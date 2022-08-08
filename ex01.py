@@ -6,8 +6,7 @@
 #
 # data: 08/08/2022
 #
-# 1 - Escreva uma função que recebe dois parâmetros e imprime o menor dos dois.
-# Se eles forem iguais, imprima que eles são iguais.
+# 1 - Escreva uma função que recebe dois parâmetros e imprime o menor dos dois. Se eles forem iguais, imprima que eles são iguais.
 
 def menor(valor1, valor2): # Declarando a função
     
@@ -23,6 +22,6 @@ def menor(valor1, valor2): # Declarando a função
 
 # -- Chamada das funções --
 
-menor(10, 20) # imprimindo o menor valor (10)
-menor(20, 10) # imprimindo o menor valor (10)
-menor(10, 10) # imprimindo que os valores são iguais (10 e 10)
+menor(10, 20) # Imprimindo o menor valor (10)
+menor(20, 10) # Imprimindo o menor valor (10)
+menor(10, 10) # Imprimindo que os valores são iguais (10 e 10)
