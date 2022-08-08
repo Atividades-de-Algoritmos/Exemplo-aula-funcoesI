@@ -4,7 +4,7 @@
 <a href="https://github.com/Atividades-de-Algoritmos/Exemplo-aula-funcoesI/graphs/contributors"><img src="https://img.shields.io/github/contributors/Atividades-de-Algoritmos/Exemplo-aula-funcoesI.svg?style=for-the-badge"/></a>
 <a href="https://github.com/Atividades-de-Algoritmos/Exemplo-aula-funcoesI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Atividades-de-Algoritmos/Exemplo-aula-funcoesI.svg?style=for-the-badge"/></a>
 
-# Lista 02 de algoritmos 💻
+# Exemplo-aula-funções I 💻
 > Desenvolvido em linguagem Python 🐍
 ### Por:
 - [**Michel**](https://github.com/MichelZero)
