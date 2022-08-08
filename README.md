@@ -70,7 +70,7 @@ O maior valor é 10
 <br>
 
 ## Sobre 📒:
- - Algoritmo que solicita três valores como entrada e em seguida mostra o resultado do menor número informado. 
+- Programa consiste em uma função que recebe um número n como parâmetro e imprime se n é nulo, positivo ou negativo.
 
 <br><br>
 
@@ -80,20 +80,20 @@ No terminal, digite:
 python ex02.py
 ```
 
-Desenvolvendo ...
+Pressione enter para executar o arquivo.py, em seguida espera a saída no terminal.
+
+> Deverá ser exibido de acordo com o valor informado se é positivo, negativo ou nulo.
 
 <br><br>
 
 ## Exemplo no cmd 👨‍💻:
-```
-> python ex02.py
+```python
 
-informe o valor 1: 10
-informe o valor 2: 4
-informe o valor 3: 3
+Informe o valor: 10
 
-3 é o menor
-fim do programa
+10.0 é positivo
+
+Fim do programa 
 ```
 
 <br>
@@ -113,50 +113,31 @@ No terminal, digite:
 ```cmd
 python ex03.py
 ```
-pressione enter. Logo em seguida, informe o valor de x e pressione enter.
-O resultado final da expressão será exibido no terminal.
+
+Pressione enter para executar o arquivo.py, logo em seguida, informe o primeiro e segundo valor a operação dessejada.
+
+> O resultado da operação escolhida deverá ser exibida no terminal.
 
 <br><br>
 
 ## Exemplo no cmd 👨‍💻:
-```
-> python ex03.py
+```python
 
-informe um valor: 10
-10 é par
-fim do programa
-```
+Digite o primeiro número: 10
+Digite o segundo número: 2
 
-<br>
- 
-# ex04
-#### <a href="https://github.com/Atividades-de-Algoritmos/Exemplo-aula-funcoesI/blob/main/ex04.py">Ir até o código</a>
+Operadores disponíveis;
 
-<br>
++
+-
+*
+/
 
-## Sobre 📒:
-- Solicita um salário e exibe o salário reajustado. aplicando as seguintes regras:
-  - salários até R$ 300,00 (inclusivo): aumento de 50%
-  - salários acima de R$ 300,00: aumento de 30%
+Digite a operação desejada: +
 
-<br><br>
+10 + 2 = 12
 
-## Como executar 💽:
-No terminal, digite:
-```cmd
-python ex04.py
-```
-Informe o salário e pressione enter, no terminal será exibido o valor do seu salário com o reajuste salarial.
-
-<br><br>
-
-## Exemplo no cmd 👨‍💻:
-```
-> python ex04.py
-
-informe o salário: 1500
-O salário reajustado é de R$1950.00
-fim do programa
+Fim do programa
 ```
 
 #
